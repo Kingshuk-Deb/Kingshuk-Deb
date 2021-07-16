@@ -32,17 +32,8 @@
 <br />
 <br />
 
-<img align="left" alt="Kingshuk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kingshuk-Deb&show_icons=true&hide_border=true&theme=onedark" />
+![Kingshuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingshuk-Deb&show_icons=true&hide_border=true&theme=onedark)
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <img align="left" alt="Kingshuk's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingshuk-Deb&show_icons=true&hide_border=true&theme=onedark" />
   
