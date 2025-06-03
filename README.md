@@ -5,7 +5,6 @@
 - 🎓 I'm currently pursuing **BTech in Computer Science**
 - 🌱 I’m currently learning **Web Development**, along with some occasional dips in **Machine Learning** & **BlockChain Technologies**
 - 👯 I’m looking to collaborate on **Web Development projects**
-- 😮 Pronouns **He/Him**
 
 ### *Connect with me* :
 
